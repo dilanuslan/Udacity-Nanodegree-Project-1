@@ -18,4 +18,4 @@ Stack Overflow 2019 Survey Data has been used in this project. The dataset conta
 
 ## Results
 
-This project ended up with some interesting results and you can read about my comments in my blog post by clicking [here]
+This project ended up with some interesting results and you can read about my comments in my blog post by clicking [here](https://medium.com/@dilanuslan_40749/shocking-results-in-stack-overflow-survey-analysis-174628e399e5)
